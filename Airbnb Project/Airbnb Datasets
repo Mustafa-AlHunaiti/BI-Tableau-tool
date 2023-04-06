@@ -1,13 +1,14 @@
-UseCase 
-i want you to imagine that you're working for somebody they're like hey where you know i want to start an airbnb business i want to know where i should go where should i buy a home put it up on airbnb and start renting it out where's the best place 
-you know what are some of the factors that i should be looking at
-the some of the things that he cares about are things like bedrooms, location which is really important and how much price he's actually going to get how much money can he charge and so he's trying to optimize that to make sure that whatever rental
-he gets he can make a lot the most profit from instead of choosing something that you know he thinks would work but you know in the end he's actually not making that much money so those things are important 
-so that's out use case we're trying to help this guy out help them find a really good airbnb
-
 Data date from 24 March, 2023 for Seattle, Washington, United States
 listing.CSV refers to the actual home that they're renting out the Airbnb
 URL = https://bauniversity-my.sharepoint.com/:f:/g/personal/31909304005_std_bau_edu_jo/ElEAZ2BUAg5OhkMWhGW1hn4BF9mpR0l2m2n1AbU_zLl-qA?e=1tqzAL 
   
 To Get Up To Date Data
 URL = http://insideairbnb.com/get-the-data/
+
+
+UseCase 
+i want you to imagine that you're working for somebody they're like hey where you know i want to start an airbnb business i want to know where i should go where should i buy a home put it up on airbnb and start renting it out where's the best place 
+you know what are some of the factors that i should be looking at
+the some of the things that he cares about are things like bedrooms, location which is really important and how much price he's actually going to get how much money can he charge and so he's trying to optimize that to make sure that whatever rental
+he gets he can make a lot the most profit from instead of choosing something that you know he thinks would work but you know in the end he's actually not making that much money so those things are important 
+so that's out use case we're trying to help this guy out help them find a really good airbnb
