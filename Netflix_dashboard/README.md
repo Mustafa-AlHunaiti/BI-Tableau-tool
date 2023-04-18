@@ -5,3 +5,5 @@ I created an impressive Netflix dashboard in Tableau using a dataset that contai
 Furthermore, I added a filter feature to view the description, duration, and rating of individual movies or TV shows, and showed viewers how to format the dashboard layout for a more polished and professional look. To top it off, I included the iconic Netflix logo to give it that authentic feel. Overall, I showcased my Tableau skills by creating a stunning and informative Netflix dashboard that's sure to impress!
 
 ## DASHBOARD: 
+
+![Netflix](https://github.com/Mustafa-AlHunaiti/BI-Tool-Tableau/blob/a2c0bb37d7c7bb22ff154421c236c1ec2c65c7cd/Netflix_dashboard/Netflix.png)
